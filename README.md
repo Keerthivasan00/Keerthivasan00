@@ -1,4 +1,4 @@
-h1 align="center">Hi 👋, I'm KEERTHIVASAN K</h1>
+<h1 align="center">Hi 👋, I'm KEERTHIVASAN K</h1>
 <h3 align="center">A motivated and passionate full-stack developer eager to launch a career in web development. Equipped with a solid foundation in CSS, JavaScript, and the MERN stack, and enthusiastic about expanding skills in additional technologies and frameworks.</h3>
 
 - 🔭 I’m currently working on [Inventory Management System](https://github.com/Keerthivasan00/E-learning-app.git)
