@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm KEERTHIVASAN K</h1>
-<h3 align="center">A motivated and passionate full-stack developer eager to launch a career in web development. Equipped with a solid foundation in CSS, JavaScript, and the MERN stack, and enthusiastic about expanding skills in additional technologies and frameworks.</h3>
+<h3 align="center">A motivated and passionate full-stack developer eager to launch a career in web development. Equipped with a solid foundation in CSS, JavaScript, the MERN stack and Java Full Stack, and enthusiastic about expanding skills in additional technologies and frameworks.</h3>
 
 - 🔭 I’m currently working on [Inventory Management System](https://github.com/Keerthivasan00/E-learning-app.git)
 
-- 🌱 I’m currently learning **Node js,Express js**
+- 🌱 I’m currently learning **Java Swing,Spring Boot**
 
 - 👯 I’m looking to collaborate on [Task-Management-System](https://github.com/Keerthivasan00/Task-Management-Software.git)
 
