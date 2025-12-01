@@ -51,9 +51,6 @@
 
 ### 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Keerthivasan00&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
-</p>
-<p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Keerthivasan00&theme=tokyonight" alt="streak stats" />
 </p>
 
