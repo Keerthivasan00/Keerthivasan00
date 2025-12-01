@@ -1,21 +1,65 @@
-<h1 align="center">Hi 👋, I'm KEERTHIVASAN K</h1>
-<h3 align="center">A motivated and passionate full-stack developer eager to launch a career in web development. Equipped with a solid foundation in CSS, JavaScript, the MERN stack and Java Full Stack, and enthusiastic about expanding skills in additional technologies and frameworks.</h3>
+<!-- Profile Header -->
+<h1 align="center">Hey 👋, I'm <span style="color:#00bfff;">Keerthivasan K</span></h1>
+<h3 align="center">💻 Full Stack Developer (Java) | 🚀 MERN Stack Learner</h3>
 
-- 🔭 I’m currently working on [Inventory Management System](https://github.com/Keerthivasan00/E-learning-app.git)
-
-- 🌱 I’m currently learning **Java Swing,Spring Boot**
-
-- 👯 I’m looking to collaborate on [Task-Management-System](https://github.com/Keerthivasan00/Task-Management-Software.git)
-
-- 📫 How to reach me **keerthivasan638505@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/keerthivasan.k" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="keerthivasan.k" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/keerthivasan_k" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="keerthivasan_k" height="30" width="40" /></a>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Keerthivasan00&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views" />
+  <img src="https://img.shields.io/github/followers/Keerthivasan00?label=Followers&style=social" alt="followers" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> </p>
+---
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=keerthivasan00&show_icons=true&locale=en" alt="keerthivasan00" /></p>
+### 🧠 About Me  
+- 🌱 Currently learning *MERN Fullstack Development*  
+- 👨‍💻 All my projects are available at [*GitHub → Keerthivasan00*](https://github.com/Keerthivasan00)  
+- 😎 Know more about me → [*Portfolio Website*](https://keerthivasan-portfolio-tau.vercel.app/)  
+- 📫 Reach me at *keerthivasan6380502@gmail.com*  
+- ✨ Passionate about crafting *clean, responsive, and engaging web interfaces* using modern technologies.  
+
+---
+
+### 🌐 Connect With Me  
+<p align="center">
+  <a href="https://linkedin.com/in/keerthivasan.k" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:keerthivasan6380502@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</p>
+
+---
+
+### ⚙ Tech Stack
+
+#### 🌈 Frontend
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,bootstrap,tailwind,react,javascript" />
+</p>
+
+#### ☕ Backend & Database
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=spring,java,nodejs,mysql,mongodb" />
+</p>
+
+#### 🧰 Tools & Others
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,figma,photoshop" />
+</p>
+
+---
+
+### 📊 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Keerthivasan00&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
+</p>
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Keerthivasan00&theme=tokyonight" alt="streak stats" />
+</p>
+
+---
+
+### ✨ “Code. Design. Create. Buddy.”  
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=00C2FF&center=true&vCenter=true&width=500&lines=Full+Stack+Developer;MERN+Stack+Learner;ReactJS+Enthusiast;Java+Developer;Always+Growing,+Buddy!" alt="Typing SVG" />
+</p>
